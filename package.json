@@ -15,7 +15,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "requirejs": "^2.1.0"
+    "requirejs": "git://github.com/vkempys/r.js.git#master"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

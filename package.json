@@ -15,7 +15,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "requirejs": "vkempys/r.js.git#package"
+    "requirejs": "vkempys/requirejs-npm.git#master"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
